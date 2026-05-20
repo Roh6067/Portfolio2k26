@@ -40,6 +40,17 @@
   box-sizing: border-box;
 }
 
+.header-name {
+    font-size: 50px;
+    font-weight: bold;
+
+    /* background: linear-gradient(to right, #ecedee, #2563eb); */
+    background: linear-gradient(to right, #3b82f6, #8b5cf6);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 html {
   scroll-behavior: smooth;
 }
